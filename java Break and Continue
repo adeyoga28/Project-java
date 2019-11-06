@@ -1,0 +1,19 @@
+public static void main(String[] args) {
+       for(int w=0; w<100; w++){
+            if(w == 50){
+                break;
+            }else{
+            System.out.println(w);
+        //contoh java break
+             
+}
+
+public static void main(String[] args) {
+       for(int w=0; w<100; w++){
+            if(w == 50){
+                continue;
+            }else{
+            System.out.println(w);
+        //contoh java continue
+             
+}
