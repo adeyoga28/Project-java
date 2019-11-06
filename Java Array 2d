@@ -1,0 +1,9 @@
+ public static void main(String[] args) {
+      // TODO code application logic here
+    String[][]keluarga={{"ayah","Paidi"},{"ibu","Nawang"},{"anak1","Ade"}};
+            for (int x=0;x<keluarga.length;x++){
+                System.out.println("Status:"+keluarga[x][0]);
+                System.out.println("Nama:"+keluarga[x][1]);
+                System.out.println("-----------------------------");
+            }
+    }
